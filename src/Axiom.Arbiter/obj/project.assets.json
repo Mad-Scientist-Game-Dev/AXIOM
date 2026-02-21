@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Axiom.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Axiom.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Axiom.Core.dll": {}
+        }
+      },
+      "Axiom.Router/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Axiom.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Axiom.Router.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Axiom.Router.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Axiom.Core/1.0.0": {
+      "type": "project",
+      "path": "../Axiom.Core/Axiom.Core.csproj",
+      "msbuildProject": "../Axiom.Core/Axiom.Core.csproj"
+    },
+    "Axiom.Router/1.0.0": {
+      "type": "project",
+      "path": "../Axiom.Router/Axiom.Router.csproj",
+      "msbuildProject": "../Axiom.Router/Axiom.Router.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Axiom.Router >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jmhil\\.nuget\\packages\\": {},
@@ -38,7 +75,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jmhil\\AXIOM\\src\\Axiom.Router\\Axiom.Router.csproj": {
+              "projectPath": "C:\\Users\\jmhil\\AXIOM\\src\\Axiom.Router\\Axiom.Router.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

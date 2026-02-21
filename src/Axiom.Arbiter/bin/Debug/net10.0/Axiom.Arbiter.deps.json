@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Axiom.Arbiter/1.0.0": {
+        "dependencies": {
+          "Axiom.Router": "1.0.0"
+        },
+        "runtime": {
+          "Axiom.Arbiter.dll": {}
+        }
+      },
+      "Axiom.Core/1.0.0": {
+        "runtime": {
+          "Axiom.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Axiom.Router/1.0.0": {
+        "dependencies": {
+          "Axiom.Core": "1.0.0"
+        },
+        "runtime": {
+          "Axiom.Router.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Axiom.Arbiter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Axiom.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Axiom.Router/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
