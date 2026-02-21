@@ -2,6 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/Axiom.Arbiter/Axiom.Arbiter.csproj" />
     <Project Path="src/Axiom.Bridge/Axiom.Bridge.csproj" />
+    <Project Path="src/Axiom.Core.Service/Axiom.Core.Service.csproj" />
     <Project Path="src/Axiom.Core/Axiom.Core.csproj" />
     <Project Path="src/Axiom.Launcher/Axiom.Launcher.csproj" />
     <Project Path="src/Axiom.Router/Axiom.Router.csproj" />

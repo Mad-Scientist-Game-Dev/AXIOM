@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Axiom.Arbiter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88a44dfec9112e06e0e4c8223b8511e55d319905")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21fd2b2fc30f0da21fadeb03f84b5c44d7c17e13")]
 [assembly: System.Reflection.AssemblyProductAttribute("Axiom.Arbiter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Axiom.Arbiter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
