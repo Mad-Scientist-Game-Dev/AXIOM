@@ -1,0 +1,31 @@
+﻿{
+  "projects": [
+    {
+      "name": "system",
+      "domainType": "system",
+      "weight": 3.0,
+      "hints": [
+        "os",
+        "kernel",
+        "cpu",
+        "memory",
+        "runtime",
+        "dotnet",
+        "machine"
+      ],
+      "negativeHints": []
+    },
+    {
+      "name": "axiom_router",
+      "domainType": "code_project",
+      "weight": 2.0,
+      "hints": [
+        "router",
+        "routing",
+        "intent",
+        "classification"
+      ],
+      "negativeHints": []
+    }
+  ]
+}

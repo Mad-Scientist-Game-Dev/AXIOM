@@ -1,0 +1,16 @@
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\bin\Debug\net8.0\AxiomRouter.exe
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\bin\Debug\net8.0\AxiomRouter.deps.json
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\bin\Debug\net8.0\AxiomRouter.runtimeconfig.json
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\bin\Debug\net8.0\AxiomRouter.dll
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\bin\Debug\net8.0\AxiomRouter.pdb
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\AxiomRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\AxiomRouter.AssemblyInfoInputs.cache
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\AxiomRouter.AssemblyInfo.cs
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\AxiomRouter.csproj.CoreCompileInputs.cache
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\AxiomRouter.dll
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\refint\AxiomRouter.dll
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\AxiomRouter.pdb
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\AxiomRouter.genruntimeconfig.cache
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\obj\Debug\net8.0\ref\AxiomRouter.dll
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\bin\Debug\net8.0\domains.json
+C:\Users\jmhil\source\repos\AxiomRouter\AxiomRouter\bin\Debug\net8.0\Router\Memory\memory.json
