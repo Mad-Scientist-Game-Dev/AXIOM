@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Axiom.Bridge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54c472f76f1a77dd273f15e8499a6ee396a23450")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88a44dfec9112e06e0e4c8223b8511e55d319905")]
 [assembly: System.Reflection.AssemblyProductAttribute("Axiom.Bridge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Axiom.Bridge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
